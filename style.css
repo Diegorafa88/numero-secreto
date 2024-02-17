@@ -1,0 +1,20 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+main figure {
+  margin: 40px;
+  /* background-color: aqua; */
+}
+.input {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 168px;
+}
+div input {
+  width: 500px;
+  height: 30px;
+}
